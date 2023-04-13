@@ -52,7 +52,7 @@ These sections cover the basics of getting started with Sphinx, including
 creating and building your own documentation from scratch.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Get started
 
    usage/quickstart
@@ -89,7 +89,7 @@ See the :doc:`Sphinx contributors' guide <internals/contributing>` if you would
 like to contribute to the project.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Community
 
    support
@@ -105,7 +105,7 @@ collection of information that can be quickly referenced. If you would like
 usecase-driven documentation, see :ref:`get-started` or :ref:`user-guides`.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Reference
 
    man/index
